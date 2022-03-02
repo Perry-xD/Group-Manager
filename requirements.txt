@@ -1,7 +1,7 @@
 future
 emoji
 requests
-sqlalchemy==1.3.23
+sqlalchemy
 python-telegram-bot
 psycopg2-binary
 feedparser
